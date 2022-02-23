@@ -8,11 +8,6 @@
 
 
 
-
-
-
-// ViewController можно было удалить? Не была уверена, решила оставить)
-
 import UIKit
 
 class ViewController: UIViewController {
